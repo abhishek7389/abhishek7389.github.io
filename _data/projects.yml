@@ -1,20 +1,20 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: Personal portfolio using github pages
+  event: MLH local hack day
+  date: Jan 2020 
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title: Whiteboard-or-Paint-app-using-HTML-5-Canvas
+  event: Personal learning project
+  date: dec 2020
 
-- title: Machine Learning Project
+- title: Using Pytouch module flappy me game
+  event: Personal learning project
+  date: April 2020
+
+- title: Fire-Detection-using-OpenCV
   event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
+  date: April 2020
 
-- title: Fun Game
+- title: Fire-Detection-using-OpenCV
   event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
-
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
+  date: April 2020
   page-name: sprint1
